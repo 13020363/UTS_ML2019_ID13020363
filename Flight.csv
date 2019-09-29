@@ -1,49 +1,48 @@
- AirSpace Class, From_City , To_City , Price , Aircraft Model , Engine Model 
  B, Sydney , Melbourne ,180, A330-203, CF6-80E142 
- A, Sydney , Brisbane ,170, A330-202, CF6-80E142 
  B, Sydney , Canberra ,120, B737-3B7, CFM56-3B1 
- B, Canberra , Sydney ,120, B737-476, CFM-56-3 
- A, Sydney , Newcastle ,90, A320-232, V2527-5A 
- A, Newcastle , Sydney ,90, A320-232, V2527-5A 
  B, Sydney , Broken Hill ,130, A320-232, V2527-5A 
- B, Broken Hill , Sydney ,130, A320-232, V2527-5A 
- C, Melbourne , Sydney ,180, A330-243, 772B-60 
- B, Melbourne , Canberra ,140, A320-232, V2527-5A 
- B, Canberra , Melbourne ,140, A320-232, V2527-5A 
- A, Melbourne , Adelaide ,175, B737-3B7, CFM56-3B1 
- A, Melbourne , Hobart ,130, A320-232, V2527-5A 
- A, Melbourne , Bendigo ,70, B717-200, Unknown 
- A, Bendigo , Melbourne ,70, B717-200, Unknown 
- A, Melbourne , Launceston ,100, B737-3B7, CFM56-3B1 
- C, Adelaide , Melbourne ,175, B737-3B7, CFM56-3B1 
- C, Adelaide , Broken Hill ,100, A320-232, V2527-5A 
- C, Broken Hill , Adelaide ,100, A320-232, V2527-5A 
- D, Adelaide , Perth ,220, A330-203, CF6-80E142 
- D, Adelaide , Darwin ,230, A330-203, CF6-80E142 
- D, Darwin , Adelaide ,230, A330-203, CF6-80E142 
- E, Darwin , Alice Springs,120, B737-476, CFM-56-3 
- E, Alice Springs , Darwin ,120, B737-476, CFM-56-3 
+ A, Sydney , Brisbane ,170, A330-202, CF6-80E142 
+ A, Sydney , Newcastle ,90, A320-232, V2527-5A 
+ B, Rockhampton , Brisbane ,180, A330-202, CF6-80E142 
+ C, Pt Augusta , Adelaide ,50, B717-200, Unknown 
  D, Perth , Adelaide ,220, A330-203, CF6-80E142 
  C, Perth , Albany ,100, A320-232, V2527-5A 
  C, Perth , Kalgoorlie ,80, A320-232, V2527-5A 
  C, Perth , Broome ,90, A320-232, V2527-5A 
- B, Albany , Perth ,100, A320-232, V2527-5A 
- C, Kalgoorlie , Perth ,80, A320-232, V2527-5A 
- B, Broome , Perth ,90, B737-476, CFM-56-3 
+ A, Newcastle , Sydney ,90, A320-232, V2527-5A 
+ B, Mt Isa , Darwin ,120, B737-3B7, CFM56-3B1 
+ A, Mt Isa , Brisbane ,170, A330-202, CF6-80E142 
+ C, Melbourne , Sydney ,180, A330-243, 772B-60 
+ B, Melbourne , Canberra ,140, A320-232, V2527-5A 
+ A, Melbourne , Adelaide ,175, B737-3B7, CFM56-3B1 
+ A, Melbourne , Hobart ,130, A320-232, V2527-5A 
+ A, Melbourne , Bendigo ,70, B717-200, Unknown 
+ A, Melbourne , Launceston ,100, B737-3B7, CFM56-3B1 
  B, Launceston , Melbourne ,100, B737-476, CFM-56-3 
  B, Launceston , Hobart ,80, A320-232, V2527-5A 
+ C, Kalgoorlie , Perth ,80, A320-232, V2527-5A 
  A, Hobart , Melbourne ,130, B737-3B7, CFM56-3B1 
  A, Hobart , Launceston ,80, A320-232, V2527-5A 
+ E, Darwin , Alice Springs,120, B737-476, CFM-56-3 
+ D, Darwin , Adelaide ,230, A330-203, CF6-80E142 
+ B, Darwin , Mt Isa ,120, B737-3B7, CFM56-3B1 
+ A, Darwin , Brisbane ,240, A330-203, CF6-80E142 
+ B, Canberra , Sydney ,120, B737-476, CFM-56-3 
+ B, Canberra , Melbourne ,140, A320-232, V2527-5A 
+ A, Cairns , Brisbane ,230, A330-203, CF6-80E142 
+ B, Broome , Perth ,90, B737-476, CFM-56-3 
+ C, Broken Hill , Adelaide ,100, A320-232, V2527-5A 
+ B, Broken Hill , Sydney ,130, A320-232, V2527-5A 
  B, Brisbane , Sydney ,170, A330-203, CF6-80E142 
+ B, Brisbane , Darwin ,240, A330-203, CF6-80E142 
  A, Brisbane , Mt Isa ,170, B737-3B7, CFM56-3B1 
  A, Brisbane , Rockhampton ,180, B737-3B7, CFM56-3B1 
  A, Brisbane , Cairns ,230, A330-203, CF6-80E142 
- B, Brisbane , Darwin ,240, A330-203, CF6-80E142 
- A, Mt Isa , Brisbane ,170, A330-202, CF6-80E142 
- B, Rockhampton , Brisbane ,180, A330-202, CF6-80E142 
- A, Cairns , Brisbane ,230, A330-203, CF6-80E142 
- A, Darwin , Brisbane ,240, A330-203, CF6-80E142 
- B, Mt Isa , Darwin ,120, B737-3B7, CFM56-3B1 
- B, Darwin , Mt Isa ,120, B737-3B7, CFM56-3B1 
+ A, Bendigo , Melbourne ,70, B717-200, Unknown 
+ E, Alice Springs , Darwin ,120, B737-476, CFM-56-3 
+ B, Albany , Perth ,100, A320-232, V2527-5A 
+ D, Adelaide , Perth ,220, A330-203, CF6-80E142 
+ D, Adelaide , Darwin ,230, A330-203, CF6-80E142 
+ C, Adelaide , Melbourne ,175, B737-3B7, CFM56-3B1 
+ C, Adelaide , Broken Hill ,100, A320-232, V2527-5A 
  B, Adelaide , Pt Augusta ,50, B717-200, Unknown 
- C, Pt Augusta , Adelaide ,50, B717-200, Unknown 
