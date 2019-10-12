@@ -1,6 +1,6 @@
 I used two methods of R, igraph and networkD3, to implement the project.
 Link: https://github.com/13020363/UTS_ML2019_ID13020363/tree/DVVA/DVVA/A3
-In this directory, these files belongs to three parts:
+In this directory, these files belong to three parts:
 
 Dataset:
 email.csv - edges information
@@ -8,8 +8,10 @@ emailnodes.csv - nodes information
 
 Igraph:
 A3.png - the result
-A3.R - the commands used to implemant this way
+A3.R - the commands used to implement this way
 
 NetworkD3:
 NetworkD3.html - the result
-A3_NetworkD3.R - the commands used to implemant this way
+A3_NetworkD3.R - the commands used to implement this way
+
+PS: Because the scripts contain the dir of dataset, you'd better change the dir to your local dir if running the scripts.
