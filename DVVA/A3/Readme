@@ -1,1 +1,14 @@
+I used two methods of R, igraph and networkD3, to implement the project.
+In this directory, these files belongs to three parts:
 
+Dataset:
+email.csv - edges information
+emailnodes.csv - nodes information
+
+Igraph:
+A3.png - the result
+A3.R - the commands used to implemant this way
+
+NetworkD3:
+NetworkD3.html - the result
+A3_NetworkD3.R - the commands used to implemant this way
