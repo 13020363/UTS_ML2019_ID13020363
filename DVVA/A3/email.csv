@@ -1,46 +1,46 @@
 from,to,Emails_per_month,Weight
-0,1,5,1
-0,2,6,1
-1,2,5,1
-2,3,25,2
-2,4,36,2
-2,5,53,3
-3,6,150,4
-3,7,213,5
-3,8,298,5
-4,9,345,6
-4,10,123,4
-4,11,212,5
-4,12,453,7
-4,13,156,4
-4,14,278,5
-5,15,300,5
-5,16,78,3
-5,17,256,5
-6,7,78,3
-6,8,145,4
-7,8,139,4
-9,10,34,2
-9,11,134,4
-9,12,546,7
-9,13,23,2
-9,14,145,4
-10,11,256,5
-10,12,222,5
-10,13,190,4
-10,14,56,3
-11,12,78,3
-11,13,112,4
-12,14,98,3
-15,16,88,3
-15,17,128,4
-16,17,238,5
-17,7,5,1
-16,6,15,2
-16,7,23,2
-16,8,54,3
-16,9,18,2
-16,11,23,2
-16,13,41,2
-16,14,13,2
-16,10,27,2
+0-James(Director),1-David(Director),5,1
+0-James(Director),2-George(CEO),6,1
+1-David(Director),2-George(CEO),5,1
+2-George(CEO),3-Ronald(Business Development Manager),25,2
+2-George(CEO),4-John(Business Support Manager),36,2
+2-George(CEO),5-Richard(Business Control Manager),53,3
+3-Ronald(Business Development Manager),6-Daniel(Sales Department Leader),150,4
+3-Ronald(Business Development Manager),7-Kenneth(Product Department Leader),213,5
+3-Ronald(Business Development Manager),8-Anthony(Marketing Department Leader),298,5
+4-John(Business Support Manager),9-Robert(Project Office Leader),345,6
+4-John(Business Support Manager),10-Charles(Professional Service Leader),123,4
+4-John(Business Support Manager),11-Paul(QA Leader),212,5
+4-John(Business Support Manager),12-Mark(Design Office Leader),453,7
+4-John(Business Support Manager),13-Kevin(Technical Support Office Leader),156,4
+4-John(Business Support Manager),14-Edward(Software Development Leader),278,5
+5-Richard(Business Control Manager),15-Joseph(Legal Office Leader),300,5
+5-Richard(Business Control Manager),16-Michael(Finance Office Leader),78,3
+5-Richard(Business Control Manager),17-Jason(HR Office Leader),256,5
+6-Daniel(Sales Department Leader),7-Kenneth(Product Department Leader),78,3
+6-Daniel(Sales Department Leader),8-Anthony(Marketing Department Leader),145,4
+7-Kenneth(Product Department Leader),8-Anthony(Marketing Department Leader),139,4
+9-Robert(Project Office Leader),10-Charles(Professional Service Leader),34,2
+9-Robert(Project Office Leader),11-Paul(QA Leader),134,4
+9-Robert(Project Office Leader),12-Mark(Design Office Leader),546,7
+9-Robert(Project Office Leader),13-Kevin(Technical Support Office Leader),23,2
+9-Robert(Project Office Leader),14-Edward(Software Development Leader),145,4
+10-Charles(Professional Service Leader),11-Paul(QA Leader),256,5
+10-Charles(Professional Service Leader),12-Mark(Design Office Leader),222,5
+10-Charles(Professional Service Leader),13-Kevin(Technical Support Office Leader),190,4
+10-Charles(Professional Service Leader),14-Edward(Software Development Leader),56,3
+10-Charles(Professional Service Leader),12-Mark(Design Office Leader),78,3
+11-Paul(QA Leader),13-Kevin(Technical Support Office Leader),112,4
+12-Mark(Design Office Leader),14-Edward(Software Development Leader),98,3
+15-Joseph(Legal Office Leader),16-Michael(Finance Office Leader),88,3
+15-Joseph(Legal Office Leader),17-Jason(HR Office Leader),128,4
+16-Michael(Finance Office Leader),17-Jason(HR Office Leader),238,5
+17-Jason(HR Office Leader),7-Kenneth(Product Department Leader),5,1
+16-Michael(Finance Office Leader),6-Daniel(Sales Department Leader),15,2
+16-Michael(Finance Office Leader),7-Kenneth(Product Department Leader),23,2
+16-Michael(Finance Office Leader),8-Anthony(Marketing Department Leader),54,3
+16-Michael(Finance Office Leader),9-Robert(Project Office Leader),18,2
+16-Michael(Finance Office Leader),11-Paul(QA Leader),23,2
+16-Michael(Finance Office Leader),13-Kevin(Technical Support Office Leader),41,2
+16-Michael(Finance Office Leader),14-Edward(Software Development Leader),13,2
+16-Michael(Finance Office Leader),10-Charles(Professional Service Leader),27,2
